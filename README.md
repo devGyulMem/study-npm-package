@@ -7,4 +7,8 @@
     npm publish
 ```
 
+- feature
+  -- support common JS, ES module
+  -- type definitions
+
 - [sample npm package](https://www.npmjs.com/package/gyulgyul-math?activeTab=code)
